@@ -29,3 +29,7 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 --->
+Day 1: October 23, 2022
+Today's Progress: Implemented merge sort algorithm using Linked List data structure
+Thoughts: I have been working through a data structure and algorithms course for a few days. I have created the linked list data structure from scratch previously and implemented merge sort using the array (list in python) data structure. Linked list implementation follows the same approach but is definitely tough to get your head around at first time.
+Link to work:
