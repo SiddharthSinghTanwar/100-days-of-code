@@ -35,4 +35,12 @@ Today's Progress: Implemented merge sort algorithm using Linked List data struct
 
 Thoughts: I have been working through a data structure and algorithms course for a few days. I have created the linked list data structure from scratch previously and implemented merge sort using the array (list in python) data structure. Linked list implementation follows the same approach but is definitely tough to get your head around at first time.
 
-Link to work:
+Link to work: github.com/SiddharthSinghTanwar/Learning-Algorithms
+
+Day 2: October 24, 2022
+
+Today's Progress: Implemented Selection sort algorithm and quick sort algorithm
+
+Thoughts: With so many sorting algorithms it is difficult to remember what each one of them does, but I feel like after seeing them multiple times and tinkering with them I am starting to internalize them. 
+
+Link to work: github.com/SiddharthSinghTanwar/Learnign-Algorithms
